@@ -2,8 +2,8 @@
 
 https://github.com/ziglang/zig
 
-> https://github.com/ziglang/zig-mode
-
-> https://github.com/michal-z/zig-gamedev
-
-> https://github.com/hexops/mach
+> https://github.com/andrewrk/tetris
+>
+> https://github.com/Vexu/bog
+>
+> https://github.com/ziglang/zig.vim
