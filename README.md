@@ -2,8 +2,9 @@
 
 https://github.com/ziglang/zig
 
-> https://github.com/andrewrk/tetris
+> https://github.com/sdras/awesome-actions
 >
-> https://github.com/Vexu/bog
+> https://github.com/zigtools/zls
 >
-> https://github.com/ziglang/zig.vim
+> https://github.com/mattnite/gyro
+> 
