@@ -1,13 +1,7 @@
 # mytemplates
 
-https://www.vim.org/
+# https://go.dev/
 
-> https://www.vim.org/download.php
->
-> https://www.vim.org/git.php
->
+> https://go.dev/blog/defer-panic-and-recover
 
-# https://vimhelp.org/#help.txt
-
-## https://vimhelp.org/usr_90.txt.html#usr_90.txt
-
+> https://go.dev/tour/flowcontrol/12
