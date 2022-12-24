@@ -11,3 +11,7 @@
 > https://go.dev/ref/spec
 
 > https://pkg.go.dev/net/http
+
+and
+
+> https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
