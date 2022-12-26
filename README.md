@@ -19,6 +19,11 @@
 > 
 > chmod --help
 
+## man sha256sum
+## man ln
+## man man
+> echo 
+>
 ## pep?
 >
 > https://github.com/python/peps/
