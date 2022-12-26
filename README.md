@@ -18,3 +18,9 @@
 > rw-rw-rw (666)
 > 
 > chmod --help
+
+## pep?
+>
+> https://github.com/python/peps/
+>
+> https://peps.python.org/pep-0007/
