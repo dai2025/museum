@@ -4,9 +4,14 @@
 
 # Permissions
 
+## touch test
+> 
+> spaces 2 or tabs 8
+>
+
 ## ls -l
 
-> rw-r--r-- (644)
+> rw-rw-r-- (664) or rw-r--r-- (644)
 >
 > chmod go+w test
 >
