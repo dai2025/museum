@@ -24,3 +24,12 @@
 > https://github.com/python/peps/
 >
 > https://peps.python.org/pep-0007/
+>
+> !blockquote cite="https://peps.python.org/pep-0008/">PEP-8</blockquote>
+>
+> ## Tabs or Spaces?
+> Spaces are the preferred indentation method
+>
+> Tabs should be used solely to remain consistent with code that is already indented with tabs.
+>
+> Python disallows mixing tabs and spaces for indentation.
