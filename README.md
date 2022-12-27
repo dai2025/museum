@@ -87,22 +87,22 @@ git --version
 git clone --depth 1 https://github.com/####/####.git
 ```
 
-## pep?
+## pep
 >
 > https://github.com/python/peps/
 >
 > https://peps.python.org/pep-0007/
 >
-> !blockquote cite="https://peps.python.org/pep-0008/">PEP-8</blockquote>
+> https://peps.python.org/pep-0008/">PEP-8</blockquote>
 >
-> ## Tabs or Spaces?
+> ## Tabs or Spaces
 > Spaces are the preferred indentation method
 >
 > Tabs should be used solely to remain consistent with code that is already indented with tabs.
 >
 > Python disallows mixing tabs and spaces for indentation.
 
-## ymel
+## yamel
 >
 > https://en.wikipedia.org/wiki/YAML
 >
@@ -113,110 +113,7 @@ git clone --depth 1 https://github.com/####/####.git
 Another or A'int
 ---------------
 
-
-I don't know  anything yet.
-already?
-
-- You ain't seen nothings.
-- hear..., heard.
-
-.
-===============
-
-## my-colums
->
-> https://ja.wikipedia.org/wiki/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%83%A1%E3%82%AB%E3%83%89%E3%83%83%E3%82%AF
->
-> https://it.wikipedia.org/wiki/A_tutto_gas_(serie_animata)
-> 
-> https://it.wikipedia.org/wiki/Ferrari_F40
-> 
-> https://en.wikipedia.org/wiki/Toyota_Supra
->
-> https://en.wikipedia.org/wiki/Vehicle_emissions_control
->
-> ... 
-> 
-> https://en.wikipedia.org/wiki/Intel_4004
->
-> https://en.wikipedia.org/wiki/Intel_4040
-> 
-> https://en.wikipedia.org/wiki/Intel_8008
-> 
-> https://en.wikipedia.org/wiki/Intel_8080
->  
-> ...
-> 
-> https://www.google.com/teapot
-
-### temp
-```
-a tempest in a teapot.
-tempestas.
-tempus + tas-ty
-
-temp.
-temperature; temporary;
-tempore... (in the time of)
-```
-Temper! Temper! <br>
-a good-tempered ...
-
-I'm tuning the piano now. The story of the tuner. Tuning. Tuning. <br>
-<br>
-change my tune.
-
-built on sand. built on upen the sand. upon?
-
-before the sands (of time) run out.
-
-run into the sands.
-
-upend.
-
-update.
-
--able.
-
-depend upon it. <br>
-come upon... <br>
-hit upon... <br>
-
-on -> on Sunday / on time / on the telephone
-
-jump upon the table
-
-We don't have many facts to go upon.
-
-upon? tune.
-
-once upon a time. upon my word. (not on)
-
-unwrap a package.
-
 unwritten.
 
-an unwritten song. <br>
-an unwritten law. <br>
-
-an unwritten rule. <br>
-
-unzip?
-
-stand up.
-
-go up to town. up ahead.
-
-go straight up to the door.
-
-up from...
-
-move up in a firm.
-
-keep up the with what's happening in sports.
-
-
-
-What's up?
-
-We laughed it up.
+unwritten law. <br>
+unwritten rule. <br>
