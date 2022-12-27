@@ -80,6 +80,11 @@ tail -n2 test
 
 echo defer
 man touch
+
+man git
+git --version
+
+git clone --depth 1 https://github.com/####/####.git
 ```
 
 ## pep?
