@@ -77,6 +77,9 @@ head -n1 test
 tail -n2 test
 
 /bin/sh ./test Hello, World!
+
+echo defer
+man touch
 ```
 
 ## pep?
