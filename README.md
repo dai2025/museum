@@ -43,6 +43,10 @@
 >
 > https://en.wikipedia.org/wiki/YAML
 >
+> https://en.wikipedia.org/wiki/Serialization
+>
+> https://en.wikipedia.org/wiki/Lightweight_markup_language
+
 
 ## my-colums
 >
