@@ -144,19 +144,7 @@ already?
 > https://en.wikipedia.org/wiki/Intel_8008
 > 
 > https://en.wikipedia.org/wiki/Intel_8080
-> 
-> ...
-> 
-> https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)
-> 
-> https://en.wikipedia.org/wiki/Dragon_Quest_II
-> 
-> https://en.wikipedia.org/wiki/Dragon_Quest_III
-> 
-> ...
-> 
-> https://011001110110111101101111011001110110110001100101.com/
-> 
+>  
 > ...
 > 
 > https://www.google.com/teapot
