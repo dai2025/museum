@@ -41,6 +41,7 @@ man man
 ```
 echo man
 echo --help
+echo --version
 
 man echo
 ```
