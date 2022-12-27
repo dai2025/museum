@@ -5,25 +5,45 @@
 # Permissions
 
 ## touch test
-> 
-> spaces 2 or tabs 8
->
+```
+touch test
+```
+spaces 2 or tabs 8
 
 ## ls -l
-
-> rw-rw-r-- (664) or rw-r--r-- (644)
->
+```
+ls -l
+```
+rw-rw-r-- (664) or rw-r--r-- (644)
 > chmod go+w test
->
-> rw-rw-rw (666)
 > 
-> chmod --help
-
+> rw-rw-rw (666)
+```
+chmod --help
+chmod go+w test
+ls -l
+chmod go-w test
+ls -l
+```
 ## man sha256sum
+```
+man sha256sum
+```
 ## man ln
+```
+man ln
+```
 ## man man
-> echo 
->
+```
+man man
+```
+## echo
+```
+echo man
+echo --help
+
+man echo
+```
 ## pep?
 >
 > https://github.com/python/peps/
