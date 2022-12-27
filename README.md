@@ -163,4 +163,9 @@ Temper! Temper! <br>
 a good-tempered ...
 
 I'm tuning the piano now. The story of the tuner. Tuning. Tuning. <br>
-Or is it about playing in the sand? <br>
+<br>
+change my tune.
+
+built on sand. built on upen the sand.
+
+before the sands (of time) run out.
