@@ -166,7 +166,7 @@ I'm tuning the piano now. The story of the tuner. Tuning. Tuning. <br>
 <br>
 change my tune.
 
-built on sand. built on upen the sand.
+built on sand. built on upen the sand. upon?
 
 before the sands (of time) run out.
 
