@@ -161,6 +161,19 @@ already?
 > 
 > https://www.google.com/teapot
 
+### temp
+```
+a tempest in a teapot.
+tempestas.
+tempus + tas-ty
+
+temp.
+temperature; temporary;
+tempore... (in the time of)
+```
+Temper! Temper! <br>
+a good-tempered ...
+
 
 
 
