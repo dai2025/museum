@@ -178,4 +178,21 @@ update.
 
 -able.
 
+depend upon it. <br>
+come upon... <br>
+hit upon... <br>
+
+on -> on Sunday / on time / on the telephone
+
+jump upon the table
+
+We don't have many facts to go upon.
+
+upon? tune.
+
+once upon a time. upon my word. (not on)
+
+
+
+
 
