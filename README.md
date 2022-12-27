@@ -49,8 +49,14 @@
 
 Another or A'int
 ---------------
+
+
 I don't know  anything yet.
 already?
+
+- You ain't seen nothings.
+- hear..., heard.
+
 .
 ===============
 
