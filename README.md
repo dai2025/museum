@@ -45,6 +45,40 @@ echo --version
 
 man echo
 ```
+## date
+```
+man date
+date +%Y
+date +%m
+date +%d
+date '+%Y %m %d'
+```
+
+## /bin/sh
+e3...55
+```
+man /bin/sh
+ls -l test
+sha256sum test
+
+#!/bin/sh
+echo 'param list='$@
+echo 'number='$#
+echo 'script='$0
+echo 'parm1='$1
+echo 'parm2='$2
+echo `date +%Y`
+
+man cat
+cat test
+man head
+man tail
+head -n1 test
+tail -n2 test
+
+/bin/sh ./test Hello, World!
+```
+
 ## pep?
 >
 > https://github.com/python/peps/
