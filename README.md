@@ -39,6 +39,11 @@
 >
 > Python disallows mixing tabs and spaces for indentation.
 
+## ymel
+>
+> https://en.wikipedia.org/wiki/YAML
+>
+
 ## my-colums
 >
 > https://ja.wikipedia.org/wiki/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%83%A1%E3%82%AB%E3%83%89%E3%83%83%E3%82%AF
@@ -54,6 +59,12 @@
 > ... 
 > 
 > https://en.wikipedia.org/wiki/Intel_4004
+>
+> https://en.wikipedia.org/wiki/Intel_4040
+> 
+> https://en.wikipedia.org/wiki/Intel_8008
+>
+> ...
 > 
 
 
