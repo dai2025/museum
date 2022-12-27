@@ -50,7 +50,7 @@
 >
 > https://it.wikipedia.org/wiki/A_tutto_gas_(serie_animata)
 > 
-> 
+> https://it.wikipedia.org/wiki/Ferrari_F40
 > 
 > https://en.wikipedia.org/wiki/Toyota_Supra
 >
