@@ -162,9 +162,5 @@ tempore... (in the time of)
 Temper! Temper! <br>
 a good-tempered ...
 
-
-
-
-
-
-
+I'm tuning the piano now. The story of the tuner. Tuning. Tuning. <br>
+Or is it about playing in the sand? <br>
