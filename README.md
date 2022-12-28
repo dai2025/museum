@@ -138,4 +138,4 @@ otherwise
 
 to
 ---------------
-[goto](http://www.goto-shimatabi.com/)
+[goto] ::
