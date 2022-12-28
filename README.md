@@ -1,6 +1,6 @@
-go on an outing to the upon.
+go on an outing to the underdog.
 
-up on
+upon
 ---------------
 
 > https://github.com/microsoft/MS-DOS
@@ -112,7 +112,7 @@ pep-0008/">PEP-8</blockquote>
 
 /Lightweight_markup_language
 
-Another or A'int -> other am not
+other am not
 ---------------
 
 unwritten.
