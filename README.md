@@ -1,6 +1,10 @@
-# mytemplates
+# mytemplates - > Up on
+---------------
 
-> https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+Up on
+---------------
+
+> https://github.com/microsoft/MS-DOS
 
 # Permissions
 
@@ -88,13 +92,13 @@ git clone --depth 1 https://github.com/####/####.git
 ```
 
 ## pep
->
-> https://github.com/python/peps/
->
-> https://peps.python.org/pep-0007/
->
-> https://peps.python.org/pep-0008/">PEP-8</blockquote>
->
+
+python/peps/
+
+pep-0007/
+
+pep-0008/">PEP-8</blockquote>
+
 > ## Tabs or Spaces
 > Spaces are the preferred indentation method
 >
@@ -102,15 +106,12 @@ git clone --depth 1 https://github.com/####/####.git
 >
 > Python disallows mixing tabs and spaces for indentation.
 
-## yamel
->
-> https://en.wikipedia.org/wiki/YAML
->
-> https://en.wikipedia.org/wiki/Serialization
->
-> https://en.wikipedia.org/wiki/Lightweight_markup_language
+## YAML
+/Serialization
 
-Another or A'int
+/Lightweight_markup_language
+
+Another or A'int -> other am not
 ---------------
 
 unwritten.
