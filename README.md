@@ -135,3 +135,7 @@ Do unto others as you would have them do unto you.
 like any other
 
 otherwise
+
+to
+---------------
+[goto](http://www.goto-shimatabi.com/)
