@@ -1,7 +1,6 @@
-# mytemplates - > Up on
----------------
+go on an outing to the upon.
 
-Up on
+up on
 ---------------
 
 > https://github.com/microsoft/MS-DOS
