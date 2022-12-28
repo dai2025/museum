@@ -120,3 +120,19 @@ unwritten.
 
 unwritten law. <br>
 unwritten rule. <br>
+
+other
+---------------
+I have some other things to do.
+
+Other things being equal, I would choose this one.
+
+Each belittled the other.
+
+After his departure the others resumed the discussion.
+
+Do unto others as you would have them do unto you.
+
+like any other
+
+otherwise
