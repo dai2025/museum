@@ -13,12 +13,24 @@ Michelangelo di Lodovico Buonarroti Simoni.
 Alfred Adler.
 
 * DECISION
+  - decision table
+  - decision tree
+  - deck
+  - decide
+      - make
 
 * VISION
+  - visionary
+  - visible
+  - view
+  - (visio [videre +-sus -ION])
 
 * MISSION
+  - (missio [mittere + -sus + -ION])
 
 * PASSION
+  - (passio [passus + -ION])
+      - pass
 
 LOGIC
 ---------------
