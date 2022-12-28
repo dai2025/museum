@@ -12,7 +12,15 @@ Michelangelo di Lodovico Buonarroti Simoni.
 
 Alfred Adler.
 
+* DECISION
 
+* VISION
+
+* MISSION
+
+* PASSION
+
+LOGIC
 ---------------
 
 # Permissions
