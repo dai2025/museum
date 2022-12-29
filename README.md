@@ -46,6 +46,10 @@ Alfred Adler.
 LOGIC
 ---------------
 
+```
+nmake -v
+```
+
 worth or value
 ---------------
 This book is well worth fifty dollars.\
