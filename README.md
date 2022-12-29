@@ -13,6 +13,10 @@ m 13, Xi 14
 
 # fluxion
 
+Platon.
+
+Pierre de Fermat.
+
 Michelangelo di Lodovico Buonarroti Simoni.
 
 Alfred Adler.
