@@ -82,20 +82,9 @@ like any other
 
 otherwise
 
-to
----------------
-[goto] ::\
-
 zonbie
 ---------------
-```
-pid_t pid;
-pid = fork();
-execl(argv[1], argv[1], argv[2]);
-perror(argv[1]);
-...
-exit(0);
-```
+> to golang 
 
 ---------------
 > https://github.com/microsoft/MS-DOS
