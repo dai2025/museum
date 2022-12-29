@@ -17,6 +17,8 @@ Platon.
 
 Pierre de Fermat.
 
+Ludolphsche Zahl.
+
 Michelangelo di Lodovico Buonarroti Simoni.
 
 Alfred Adler.
