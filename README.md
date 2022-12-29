@@ -40,6 +40,30 @@ Alfred Adler.
 LOGIC
 ---------------
 
+worth or value
+---------------
+This book is well worth fifty dollars.\
+It's not worth  a penny.
+
+for what  it's worth.
+
+Here's my advice, for what it's worth.
+
+Wert
+
+worthwhile
+```
+do some worthwhile work
+
+do {
+    some worth {
+        work // Die Arbeit ist der. [Das ist] nicht der Rede wert.
+    }
+} while (!!value) // expression()
+```
+
+
+
 # Permissions
 
 - creation
