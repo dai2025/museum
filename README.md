@@ -85,26 +85,6 @@ via strāta   street
 
 - creation
 
-## pep
-
-python/peps/
-
-pep-0007/
-
-pep-0008/">PEP-8</blockquote>
-
-> ## Tabs or Spaces
-> Spaces are the preferred indentation method
->
-> Tabs should be used solely to remain consistent with code that is already indented with tabs.
->
-> Python disallows mixing tabs and spaces for indentation.
-
-## YAML
-/Serialization
-
-/Lightweight_markup_language
-
 other am not
 ---------------
 
@@ -129,12 +109,7 @@ like any other
 
 otherwise
 
-zonbie
----------------
-> to golang 
 
----------------
-> https://github.com/microsoft/MS-DOS
->
-> https://github.com/PowerShell/PowerShell
-
+```
+console.log('Hello, world!')
+```
