@@ -79,7 +79,7 @@ You're on wrong road.
 anyway.
 
 ### road movie 
-strāta street
+via strāta   street
 
 # Permissions
 
