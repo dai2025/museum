@@ -8,6 +8,11 @@ A peck of pickled pepper Peter Piper picked.\
 If Peter Piper picked a peck of pickled pepper,\
 Where's the peck of pickled pepper Peter Piper picked?
 
+## XION
+m 13, Xi 14
+
+# fluxion
+
 Michelangelo di Lodovico Buonarroti Simoni.
 
 Alfred Adler.
@@ -37,6 +42,7 @@ LOGIC
 
 # Permissions
 
+- creation
 
 ## pep
 
