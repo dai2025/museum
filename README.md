@@ -70,6 +70,16 @@ do {
 
 ## omnēs viae Rōmam dūcunt.
 
+## Road and Street
+
+rad RAID
+take to the road.\
+[He, She] They is well on road to recovery.\
+You're on wrong road.
+anyway.
+
+### road movie 
+strāta street
 
 # Permissions
 
