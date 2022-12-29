@@ -57,6 +57,11 @@ hello7.exe : hello7.obj; cl hello7.obj
 hello7.obj : hello7.cpp; cl /c hello7.cpp
 clean : ; del *.obj *.exe
 ```
+  
+```
+gcc Hello1.c -Og -g -o Hello1
+gdb ./Hello1
+```
 
 worth or value
 ---------------
