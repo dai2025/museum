@@ -63,6 +63,11 @@ gcc Hello1.c -Og -g -o Hello1
 gdb ./Hello1
 ```
 
+multi-thread and single-thread
+---------------
+
+!
+
 worth or value
 ---------------
 This book is well worth fifty dollars.\
