@@ -85,15 +85,6 @@ otherwise
 to
 ---------------
 [goto] ::\
-```
-rustup update
-rustup self uninstall
-
-/home/Path/.cargo/registry/cache/
-/home/Path/.cargo/registry/index/
-/home/Path/.cargo/registry/src/
-/home/Path/.cargo/bin/
-```
 
 zonbie
 ---------------
