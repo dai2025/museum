@@ -53,7 +53,7 @@ nmake /?
 makefile <sample>
 ---------------
 ```
-hello7.exe : hello7.obj; cl /o hello7.obj
+hello7.exe : hello7.obj; cl hello7.obj
 hello7.obj : hello7.cpp; cl /c hello7.cpp
 clean : ; del *.obj *.exe
 ```
