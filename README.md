@@ -1,4 +1,4 @@
-go on an outing to the underdog.
+amō
 
 upturn
 ---------------
