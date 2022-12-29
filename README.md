@@ -47,7 +47,7 @@ LOGIC
 ---------------
 
 ```
-nmake -v
+nmake /?
 ```
 
 worth or value
