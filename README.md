@@ -125,6 +125,32 @@ git clone --depth 1 https://github.com/####/####.git
 man cpp
 cpp hello6.c
 ```
+## mkdir
+```
+man mkdir
+mkdir backup
+```
+## cp
+```
+man cp
+cp hello6.c ./backup/
+```
+## cd
+```
+echo cd
+cd ./backup/
+```
+## mv
+```
+man mv
+mv hello6.c ../
+cd ..
+```
+## diff
+```
+man diff
+diff hello6.c ./backup/hello6.c
+```
 
 ## pep
 
