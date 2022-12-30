@@ -177,5 +177,7 @@ otherwise
 ```
 console.log('Hello, world!')
 ```
-	
+
+Upright Piano
+---------------	
 Disassemble a Piano
