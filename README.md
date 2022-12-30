@@ -35,6 +35,10 @@ simple.c:6:1: note: #pragma message: the _Pragma way
     6 | _Pragma ("message( \"the _Pragma way\")")
       | ^~~~~~~
 ```
+```
+cc1: fatal error: parse.y: No such file or directory
+compilation terminated.
+```
 upturn
 ---------------
 
