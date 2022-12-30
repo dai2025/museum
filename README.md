@@ -178,6 +178,8 @@ otherwise
 console.log('Hello, world!')
 ```
 
+  - He is wedded to his opinions.
+
 Upright Piano
 ---------------	
 Disassemble a Piano
