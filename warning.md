@@ -16,6 +16,14 @@ Run swift file.swift
   shell: /bin/bash -e {0}
 ```
 
+```
+Run swift file.swift
+file.swift:9:13: error: cannot find type 'ObserableObject' in scope
+class Data: ObserableObject {
+            ^~~~~~~~~~~~~~~
+Error: Process completed with exit code 1.
+```
+- Do you want results only for ObserableObject?
 - The logs for this run have expired and are no longer available.
 
 ## c
