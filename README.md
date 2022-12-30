@@ -26,6 +26,15 @@ simple.c:8:7: warning: implicit declaration of function ‘printf_s’; did you 
     8 |       printf_s("hello7 from thread %d\n", i);
 ```
 
+```
+simple.c: In function ‘main’:
+simple.c:5:9: note: #pragma message: the #pragma way
+    5 | #pragma message("the #pragma way")
+      |         ^~~~~~~
+simple.c:6:1: note: #pragma message: the _Pragma way
+    6 | _Pragma ("message( \"the _Pragma way\")")
+      | ^~~~~~~
+```
 upturn
 ---------------
 
