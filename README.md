@@ -18,6 +18,14 @@ typedef long long LL;
 return max<LL>(a, -1);
 ```
 
+> Pragma directives and the __pragma and _Pragma keywords
+> 
+
+```
+simple.c:8:7: warning: implicit declaration of function ‘printf_s’; did you mean ‘printf’? [-Wimplicit-function-declaration]
+    8 |       printf_s("hello7 from thread %d\n", i);
+```
+
 upturn
 ---------------
 
