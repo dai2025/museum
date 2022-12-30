@@ -1,4 +1,22 @@
-amō
+amō [you like]
+
+### mytemplates -> upon > underdog
+
+```
+template<typename _Tp>
+constexpr
+inline const _Tp&
+max(const _Tp& __a, const _Tp& __b)
+{
+	if (__a < __b)
+ 		return __b;
+      	return __a;
+}
+
+typedef long long LL;
+
+return max<LL>(a, -1);
+```
 
 upturn
 ---------------
