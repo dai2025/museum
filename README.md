@@ -181,3 +181,7 @@ console.log('Hello, world!')
 Upright Piano
 ---------------	
 Disassemble a Piano
+
+Puzzle
+---------------		
+Rubik's cube
