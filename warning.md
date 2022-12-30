@@ -10,6 +10,8 @@ Swift: .github#L1
 macOS-latest pipelines will use macOS-12 soon. For more details, see https://github.com/actions/runner-images/issues/6384
 ```
 
+- The logs for this run have expired and are no longer available.
+
 ## c
 ```bash
 Hello8.c: In function ‘main’:
