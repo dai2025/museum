@@ -16,6 +16,9 @@ max(const _Tp& __a, const _Tp& __b)
 typedef long long LL;
 
 return max<LL>(a, -1);
+
+error: ‘::main’ must return ‘int’
+   41 | volatile int main() {
 ```
 
 > Pragma directives and the __pragma and _Pragma keywords
