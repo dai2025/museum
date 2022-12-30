@@ -1,4 +1,4 @@
-# Warinng
+# Warinng -> Warn
 
 ## swift
 ```bash
@@ -8,6 +8,12 @@ Annotations
 1 warning
 Swift: .github#L1
 macOS-latest pipelines will use macOS-12 soon. For more details, see https://github.com/actions/runner-images/issues/6384
+```
+
+```
+Run swift file.swift
+  swift file.swift
+  shell: /bin/bash -e {0}
 ```
 
 - The logs for this run have expired and are no longer available.
