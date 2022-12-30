@@ -173,7 +173,7 @@ like any other
 
 otherwise
 
-
+# Web browser
 ```
 console.log('Hello, world!')
 ```
@@ -185,3 +185,20 @@ Disassemble a Piano
 Puzzle
 ---------------		
 Rubik's cube
+
+Waver
+---------------	
+  Origami\
+\
+  weaver?\
+  spaces or tabs\
+  weaver a strory
+  weave three stroies together into a [weaver] novel.\
+  \
+  A spider wevers a web.
+  \
+  www = World Wide Web
+
+  
+
+
