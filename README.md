@@ -1,11 +1,11 @@
-amō [Puzzle] [you like [disasseble master?]]
+amō [  ] 
 
-### mytemplates -> upon > underdog
+## mytemplates -> upon > underdog
 
+> https://github.com/microsoft/MS-DOS
+> \
+> https://github.com/PowerShell/PowerShell
 
-https://github.com/microsoft/MS-DOS
-
-https://github.com/PowerShell/PowerShell
 
 upturn
 ---------------
@@ -40,31 +40,36 @@ Alfred Adler.
 * VISION
   - visionary
   - visible
-  - view
-  - (visio [videre +-sus -ION])
+  - (vīsiō [vidēre + -sus -ION]) -> VIEW
 
 * MISSION
-  - (missio [mittere + -sus + -ION])
+  - (missiō [mittere + -sus + -ION]) -> MISSIONARY
 
 * PASSION
-  - (passio [passus + -ION])
+  - (passiō [passus + -ION]) -> PASSIVE
       - pass
+
+id cēdās.
 
 LOGIC
 ---------------
+
+microsoft
 
 ```
 nmake /?
 ```
 
-makefile <sample>
+makefile
 ---------------
 ```
 hello7.exe : hello7.obj; cl hello7.obj
 hello7.obj : hello7.cpp; cl /c hello7.cpp
 clean : ; del *.obj *.exe
 ```
-  
+
+linux
+---------------
 ```
 gcc Hello1.c -Og -g -o Hello1
 gdb ./Hello1
@@ -73,7 +78,7 @@ gdb ./Hello1
 multi-thread and single-thread
 ---------------
 
-!
+difficult.
 
 worth or value
 ---------------
@@ -91,7 +96,8 @@ worthwhile
 do some worthwhile work
 
 do {
-    some worth {
+    some worth (fact){ // crypt sha256sum
+        // func sort();
         work // Die Arbeit ist der. [Das ist] nicht der Rede wert.
     }
 } while (!!value) // expression()
@@ -156,7 +162,6 @@ Rubik's cube
 Waver
 ---------------	
   Origami\
-\
   weaver?\
   spaces or tabs\
   weaver a strory
