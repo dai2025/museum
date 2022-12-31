@@ -1340,3 +1340,13 @@ XtUnmanageChild (3)  - manage and unmanage children
 XtUnmanageChildren (3) - manage and unmanage children
 xvfb-run (1)         - run specified X client or command in a virtual X serve...
 ```
+
+```
+rustup update
+rustup self uninstall
+
+/home/Path/.cargo/registry/cache/
+/home/Path/.cargo/registry/index/
+/home/Path/.cargo/registry/src/
+/home/Path/.cargo/bin/
+```
