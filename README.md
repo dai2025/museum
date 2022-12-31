@@ -2,46 +2,10 @@ amō [Puzzle] [you like [disasseble master?]]
 
 ### mytemplates -> upon > underdog
 
-```
-template<typename _Tp>
-constexpr
-inline const _Tp&
-max(const _Tp& __a, const _Tp& __b)
-{
-	if (__a < __b)
- 		return __b;
-      	return __a;
-}
 
-typedef long long LL;
+https://github.com/microsoft/MS-DOS
 
-return max<LL>(a, -1);
-
-error: ‘::main’ must return ‘int’
-   41 | volatile int main() {
-```
-
-> Pragma directives and the __pragma and _Pragma keywords
-> 
-
-```
-simple.c:8:7: warning: implicit declaration of function ‘printf_s’; did you mean ‘printf’? [-Wimplicit-function-declaration]
-    8 |       printf_s("hello7 from thread %d\n", i);
-```
-
-```
-simple.c: In function ‘main’:
-simple.c:5:9: note: #pragma message: the #pragma way
-    5 | #pragma message("the #pragma way")
-      |         ^~~~~~~
-simple.c:6:1: note: #pragma message: the _Pragma way
-    6 | _Pragma ("message( \"the _Pragma way\")")
-      | ^~~~~~~
-```
-```
-cc1: fatal error: parse.y: No such file or directory
-compilation terminated.
-```
+https://github.com/PowerShell/PowerShell
 
 upturn
 ---------------
