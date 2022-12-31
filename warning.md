@@ -33,3 +33,16 @@ Hello8.c:13:26: warning: conversion from ‘long unsigned int’ to ‘unsigned 
    13 |         unsigned int b = 0xffffffffffffffff;
       |                          ^~~~~~~~~~~~~~~~~~
 ```
+
+```
+template<typename _Tp>
+constexpr
+inline const _Tp&
+max(const _Tp& __a, const _Tp& __b)
+{
+	if (__a < __b)
+ 		return __b;
+      	return __a;
+}
+```
+
