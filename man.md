@@ -1350,3 +1350,15 @@ rustup self uninstall
 /home/Path/.cargo/registry/src/
 /home/Path/.cargo/bin/
 ```
+
+zonbie
+---------------
+```
+pid_t pid;
+pid = fork();
+execl(argv[1], argv[1], argv[2]);
+perror(argv[1]);
+...
+exit(0);
+```
+### go reference.
