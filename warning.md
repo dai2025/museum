@@ -26,6 +26,10 @@ Error: Process completed with exit code 1.
 - Do you want results only for ObserableObject?
 - The logs for this run have expired and are no longer available.
 
+## go
+```
+./hello.go:8:8 invalid operation: i ^ j (mismatched types Int and Int64)
+```
 ## c
 ```bash
 Hello8.c: In function ‘main’:
