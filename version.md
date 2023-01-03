@@ -1,3 +1,5 @@
+> [sample link mozilla](https://support.mozilla.org/en-US/contribute)
+
 ```sh
 automake --version
 automake (GNU automake) 1.16.5
