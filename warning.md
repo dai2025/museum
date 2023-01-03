@@ -61,6 +61,10 @@ Hello8.c:13:26: warning: conversion from ‘long unsigned int’ to ‘unsigned 
    13 |         unsigned int b = 0xffffffffffffffff;
       |                          ^~~~~~~~~~~~~~~~~~
 ```
+```
+hello8.c:2:13: warning: overflow in conversion from ‘long unsigned int’ to ‘int’ changes value from ‘18446744073709551615’ to ‘-1’ [-Woverflow]
+    2 |     int a = (1 << 1) - sizeof(int) + 1;
+```
 
 ```
 template<typename _Tp>
