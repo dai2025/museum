@@ -1,4 +1,4 @@
-# man -k man
+# man man
 ```
 pwsh (1)             - PowerShell command-line shell and .NET REPL
 aa-features-abi (1)  - Extract, validate and manipulate AppArmor feature abis
