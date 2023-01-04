@@ -7,3 +7,5 @@ man man
 ```
 man -k man
 ```
+
+[sample link redhat](https://www.redhat.com/en)
