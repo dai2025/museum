@@ -16,6 +16,12 @@ who (1)              - show who is logged on
 whoami (1)           - print effective userid
 ```
 
+# git [linux]
+No manual entry for git ??
+```man -k git```
+```
+man 1 git
+```
 [sample link redhat](https://www.redhat.com/en)\
 [sample link haiku](https://www.haiku-os.org/)\
 [sample link MINIX](https://minix3.org/)
