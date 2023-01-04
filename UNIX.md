@@ -9,3 +9,4 @@ man -k man
 ```
 
 [sample link redhat](https://www.redhat.com/en)
+[sample link haiku](https://www.haiku-os.org/)
