@@ -1,4 +1,4 @@
-These commands are from UNIX books.
+These commands are from UNIX books.  I learned MINIX.
 
 # man 
 ```
