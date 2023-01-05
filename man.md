@@ -13,7 +13,7 @@ vi -R filename
 ```
 
 1. [:] key press
-2. COMMAND h [ENTER]
+2. h [ENTER]
 3. reading help.txt 
 
 
