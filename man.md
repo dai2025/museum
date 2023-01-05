@@ -12,6 +12,13 @@ mule: nothing appropriate.
 vi -R filename
 ```
 
+1. [:] key press
+2. COMMAND h [ENTER]
+3. reading help.txt 
+
+
+...___...
+
 # man less
 ```
 less filename
