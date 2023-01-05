@@ -12,6 +12,10 @@ mule: nothing appropriate.
 vi -R filename
 ```
 
+# man less
+```
+less filename
+```
 ```
                    SUMMARY OF LESS COMMANDS
 
