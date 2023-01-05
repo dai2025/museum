@@ -1,3 +1,12 @@
+# man vi
+```
+man -k emacs
+update-default-aspell (8) - rebuild aspell database and emacsen stuff
+update-dictcommon-aspell (8) - rebuild aspell database and emacsen stuff
+update-dictcommon-hunspell (8) - rebuild hunspell database and emacsen stuff
+man -k mule
+mule: nothing appropriate.
+```
 # man man
 ```
 pwsh (1)             - PowerShell command-line shell and .NET REPL
