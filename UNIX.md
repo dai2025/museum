@@ -16,6 +16,21 @@ who (1)              - show who is logged on
 whoami (1)           - print effective userid
 ```
 
+```
+man vi
+```
+```
+man 1 view
+```
+```
+man 1 emacs
+No manual entry for emacs
+```
+```
+man 1 mule
+No manual entry for mule
+```
+
 # git [linux]
 No manual entry for git ??
 ```man -k git```
