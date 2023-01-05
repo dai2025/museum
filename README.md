@@ -54,7 +54,10 @@ id cēdās.
 LOGIC
 ---------------
 
-microsoft
+### Grace Hopper (Grace Brewster Hopper)
+1. COBOL
+
+### microsoft
 
 ```
 nmake /?
