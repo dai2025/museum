@@ -1,3 +1,9 @@
+# bash?
+> https://go.dev/doc/tutorial/getting-started
+```
+go mod tidy
+```
+
 # man vi
 ```
 man -k emacs
@@ -34,6 +40,21 @@ less filename
   q  :q  Q  :Q  ZZ     Exit.
  ---------------------------------------------------------------------------
 ```
+
+# man ls
+```
+ls
+```
+```
+ls -l
+```
+```
+touch readme.md
+```
+```
+ls -al
+```
+
 # man man
 
 ```sh
