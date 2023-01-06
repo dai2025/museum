@@ -55,6 +55,12 @@ touch readme.md
 ls -al
 ```
 
+# man chmod
+```
+chmod ..
+```
+> https://github.com/dai2024/Hello3Re/blob/main/man.bash
+
 # man man
 
 ```sh
