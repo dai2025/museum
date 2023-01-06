@@ -61,6 +61,12 @@ chmod ..
 ```
 > https://github.com/dai2024/Hello3Re/blob/main/man.bash
 
+# man od
+```
+od 
+```
+> https://github.com/dai2024/Hello3Re/blob/main/man1.bash
+
 # man man
 
 ```sh
