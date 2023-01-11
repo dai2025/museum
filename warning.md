@@ -78,3 +78,17 @@ max(const _Tp& __a, const _Tp& __b)
 }
 ```
 
+## PS
+```PS
+PS *:\***\***> Write-Output -InputObject Hello, world &!?
+At line:1 char:40
++ Write-Output -InputObject Hello, world &!?
++                                        ~
+The ampersand (&) character is not allowed. The & operator is reserved for future 
+use; wrap an ampersand in double quotation marks ("&") to pass it as part of a 
+string.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordExcepti 
+   on
+    + FullyQualifiedErrorId : AmpersandNotAllowed
+```
+
