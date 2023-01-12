@@ -36,6 +36,10 @@ Michelangelo di Lodovico Buonarroti Simoni.
 
 * PASSION
 
+Edwin O. Reischauer\
+George M. McCune\
+Jon Lech Johansen
+
 LOGIC
 ---------------
 
