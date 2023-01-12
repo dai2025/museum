@@ -43,6 +43,12 @@ Jon Lech Johansen
 LOGIC
 ---------------
 
+### Karman vortex
+1. ...
+1. temperature
+1. atmospheric
+1. entropy
+
 ### Grace Hopper (Grace Brewster Hopper)
 1. COBOL
 
