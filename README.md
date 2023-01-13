@@ -36,7 +36,7 @@ ROR
 2. Landau symbol
 3. Stirling's approximation
 4. hyperbolic function
-
+5. Hamiltonian
 
 # fluxion
 
