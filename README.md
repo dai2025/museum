@@ -20,6 +20,13 @@ m 13, Xi 14, R 18, A 1
 
 1. tip -tious
 
+m 13, Xi 14, R 18, Q 17, p **
+
+1. ... PPpppp
+1. pppPPp
+1. PPpppp
+1. pppPPp?
+
 # fluxion
 
 Platon.
