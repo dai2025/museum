@@ -27,6 +27,10 @@ m 13, Xi 14, R 18, Q 17, p **
 1. PPpppp
 1. pppPPp?
 
+RLRLRLRL...\
+ROL\
+ROR
+
 # fluxion
 
 Platon.
