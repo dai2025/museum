@@ -38,6 +38,8 @@ ROR
 4. hyperbolic function
 5. Hamiltonian
 
+```go fmt file.go```
+
 # fluxion
 
 Platon.
