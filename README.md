@@ -27,9 +27,16 @@ m 13, Xi 14, R 18, Q 17, p **
 1. PPpppp
 1. pppPPp?
 
-RLRLRLRL...\
+RLRLRLRL...Raaa\
 ROL\
 ROR
+
+### 36
+1. Peano axioms
+2. Landau symbol
+3. Stirling's approximation
+4. hyperbolic function
+
 
 # fluxion
 
