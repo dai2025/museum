@@ -1,5 +1,4 @@
-These commands are from UNIX books.  I learned MINIX.
-After that, I quit after 6 months of study.
+
 # man 
 ```
 man man
