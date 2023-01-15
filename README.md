@@ -58,9 +58,7 @@ Michelangelo di Lodovico Buonarroti Simoni.
 
 * PASSION
 
-Edwin O. Reischauer\
-George M. McCune\
-Jon Lech Johansen
+LOL 2, 8, 18, ..., 2^0, KLMN...
 
 LOGIC
 ---------------
