@@ -1,5 +1,7 @@
 &
 
+> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer
+
 ## mytemplates -> upon > underdog -> museum.
 
 > https://github.com/microsoft/MS-DOS
