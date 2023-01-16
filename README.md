@@ -20,27 +20,9 @@ Where's the peck of pickled pepper Peter Piper picked?
 ## XION
 m 13, Xi 14, R 18, A 1
 
-1. tip -tious
+1. 
 
-m 13, Xi 14, R 18, Q 17, p **
-
-1. ... PPpppp
-1. pppPPp
-1. PPpppp
-1. pppPPp?
-
-RLRLRLRL...aR.\
-ROL\
-ROR
-
-### 36
-1. Peano axioms
-2. Landau symbol
-3. Stirling's approximation
-4. hyperbolic function
-5. Hamiltonian
-
-
+m 13, Xi 14, R 18, Q 17, p 36
 
 # 
 
@@ -60,7 +42,11 @@ Michelangelo di Lodovico Buonarroti Simoni.
 
 * PASSION
 
-2^0, 2^1, 2^2, 2^3
+### 2^0, 2^1, 2^2, 2^3
+```
+ROL
+ROR
+```
 
 LOGIC
 ---------------
@@ -140,6 +126,6 @@ Rubik's cube
 
 Waver
 ---------------	
-  spaces 2 or tabs 8\
+  spaces 2 or tabs 8
  
   www = World Wide Web
