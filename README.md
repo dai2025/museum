@@ -29,7 +29,7 @@ m 13, Xi 14, R 18, Q 17, p **
 1. PPpppp
 1. pppPPp?
 
-RLRLRLRL...Raaa\
+RLRLRLRL...aR.\
 ROL\
 ROR
 
@@ -40,9 +40,9 @@ ROR
 4. hyperbolic function
 5. Hamiltonian
 
-```go fmt file.go```
 
-# fluxion
+
+# 
 
 Platon.
 
@@ -60,7 +60,7 @@ Michelangelo di Lodovico Buonarroti Simoni.
 
 * PASSION
 
-LOL 2, 8, 18, ..., 2^0, KLMN...
+2^0, 2^1, 2^2, 2^3
 
 LOGIC
 ---------------
@@ -115,23 +115,24 @@ do {
 } while (!!value) // expression()
 ```
 
-## omnēs viae Rōmam dūcunt.
+### omnēs viae Rōmam dūcunt.
 
 # Permissions
 
 - creation
 
-# Borland Turbo C
+#### Borland Turbo C
 Programming language compiler
 
-# Web browser
+## Web browser
 ```
-console.log('Hello, world! & !other')
+console.log('Hello, world!')
 ```
 
 Upright Piano
 ---------------	
-Disassemble a Piano
+Disassemble a Piano\
+piano start...
 
 Puzzle
 ---------------		
@@ -140,6 +141,5 @@ Rubik's cube
 Waver
 ---------------	
   spaces 2 or tabs 8\
-  weaver a strory <-
-  \
+ 
   www = World Wide Web
