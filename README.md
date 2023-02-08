@@ -135,12 +135,25 @@ Upright Piano
 Disassemble a Piano\
 piano start...
 
+An Upright Piano is a type of vertical piano, where the strings and soundboard are positioned vertically. It is also commonly referred to as a "vertical piano". It is smaller in size compared to a grand piano and more commonly found in homes, schools, and small performance spaces. Upright pianos are popular due to their compact size, affordability, and versatility. They come in different sizes and styles and can be used for playing a wide range of music genres.
+
 Puzzle
 ---------------		
 Rubik's cube
+
+The Rubik's cube is a 3D combination puzzle that was invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. The puzzle consists of a cube made up of smaller cubes, or cubies, that can rotate around a central axis. The goal of the puzzle is to twist and turn the cube to return it to its original state, with each of its six faces having a single color. The Rubik's cube has become one of the most popular and iconic puzzles of all time, and has inspired countless imitators and variations. It remains popular to this day, with many people enjoying solving the puzzle for fun or as a competitive sport.
 
 Waver
 ---------------	
   spaces 2 or tabs 8
  
+ Spaces and tabs are used in programming to define the structure and format of code. In most programming languages, indentation is used to define the structure of code blocks, such as loops and conditional statements. The number of spaces or tabs used to represent each level of indentation can vary depending on the coding style and the preferences of the programmer or development team.
+
+The number "2" in "spaces 2" refers to the number of spaces used to represent each level of indentation. This means that each time the code block is indented, 2 spaces are added to the beginning of each line of code.
+
+The number "8" in "tabs 8" refers to the number of spaces a tab character represents. In this case, each time the code block is indented, a tab character is added to the beginning of each line of code, which represents 8 spaces.
+
+The choice of using spaces or tabs for indentation is largely a matter of personal preference and coding style. Some developers prefer to use spaces because it gives them more precise control over the indentation level, while others prefer tabs because it saves space and is easier to type.
+
+
   www = World Wide Web
