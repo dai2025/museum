@@ -157,3 +157,9 @@ The choice of using spaces or tabs for indentation is largely a matter of person
 
 
   www = World Wide Web
+
+The World Wide Web (WWW or Web) is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP) to serve billions of users worldwide. It was created in 1989 by British computer scientist Sir Tim Berners-Lee and is now widely used for a variety of purposes, including accessing and sharing information, conducting business, and communicating with others.
+
+The Web is based on the concept of hypertext, which allows users to navigate from one piece of content to another through links. This makes it easy for users to access a vast amount of information from a single location and has made the Web a critical tool for communication, commerce, and entertainment.
+
+Today, the Web is used by billions of people worldwide and is widely regarded as one of the most important technological innovations of all time. It has transformed the way people access and share information, and has greatly impacted fields such as journalism, education, and commerce.
