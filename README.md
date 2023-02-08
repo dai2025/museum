@@ -122,7 +122,8 @@ do {
 - creation
 
 #### Borland Turbo C
-Programming language compiler
+1. Programming language compiler
+2. Borland Turbo C is an integrated development environment and compiler for the C programming language that was first released in 1987 by Borland. It was widely used for creating desktop applications in the 1980s and 1990s, but has since been largely replaced by more modern development environments and compilers. Turbo C is not widely used today, but it still has a small community of users who continue to use it for specific purposes.
 
 ## Web browser
 ```
