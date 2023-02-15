@@ -54,3 +54,15 @@ python3 -m unittest discover
 ```
 
 The discover option tells unittest to find all the test cases in the current directory and its subdirectories.
+
+```sh
+python3 abc.py > test.txt 2> test.err
+```
+python3 abc.py && 
+python3 abc.py ||
+python3 abc.py |
+python3 abc.py |&
+python3 abc.py 2>&1
+python3 abc.py >&1
+python3 abc.py >&2
+python3 abc.py >&
