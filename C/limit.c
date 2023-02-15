@@ -3,7 +3,11 @@
 // The fgets function is used to read the string from the standard input, 
 // and the strlen function is used to find the length of the string, 
 // which represents the number of characters in it.
-  
+
+// In this program, the return value of fgets is checked to ensure that it's not NULL, 
+// which would indicate an error in reading the string from the standard input. 
+// If an error occurs, the program outputs an error message and exits with a non-zero status code.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -20,8 +24,14 @@ int main() {
   }
   int length1 = strnlen(str, 1);
   int length2 = strlen(str);
-  if (str[0] != '\0')
+  if (str[0] != '\0') {
     printf("The number of characters in the string is: %d\n", length1 & length2);
+  
+    if (str[length - 1] != '\n') {
+      printf("Warning: input string may be too long\n");
+    }
+  }
+  
   return 0;
 }
 
