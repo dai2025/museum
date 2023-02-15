@@ -8,6 +8,10 @@
 // which would indicate an error in reading the string from the standard input. 
 // If an error occurs, the program outputs an error message and exits with a non-zero status code.
 
+// Additionally, the program checks if the last character in the string is a newline character '\n', 
+// which indicates that the entire string was successfully read. 
+// If the last character is not a newline, the program outputs a warning message indicating that the input string may be too long.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
