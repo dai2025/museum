@@ -64,3 +64,8 @@ int main() {
 ```
 
 This program performs matrix multiplication for two matrices with integer elements. It first takes the inputs for the two matrices, checks if the number of columns of the first matrix is equal to the number of rows of the second matrix (which is a necessary condition for multiplication), and then performs the multiplication using nested loops. Finally, it prints the resulting matrix.
+
+```man strnlen```
+```
+gcc -Wall -std=c11 -D_POSIX_C_SOURCE=200809L limit.c
+```
