@@ -12,6 +12,8 @@
 // which indicates that the entire string was successfully read. 
 // If the last character is not a newline, the program outputs a warning message indicating that the input string may be too long.
 
+// #define _POSIX_C_SOURCE 200809L
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -32,7 +34,7 @@ int main() {
     printf("The number of characters in the string is: %d\n", length1 & length2);
   
     if (str[length - 1] != '\n') {
-      printf("Warning: input string may be too long\n");
+      printf("Warning: input string may be too long. [_POSIX_C_SOURCE: %ld]\n", _POSIX_C_SOURCE);
     }
   }
   
