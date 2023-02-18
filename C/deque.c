@@ -134,7 +134,7 @@ int main() {
     pop_front(q); // output: Deque underflow
 
     return 0;
-}
+
 
 // Here is the full code in C language for a deque similar to C++'s deque. In this code, the deque's elements are stored in an array of type int. 
 // Several conditional statements are necessary to move the beginning or end of the array during push_front, pop_front, push_back, and pop_back operations.
