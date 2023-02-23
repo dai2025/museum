@@ -56,6 +56,12 @@ Twinkling panes of glass on the rooftop where the stars dance,\
 Toughened rods stand fast where the wild winds warble,\
 Two paper pages flutter gently where the breeze blows bold.
 
+The twigs that tangle, twist where the sun's last light lingers low 'neath the hill,\
+Twisted tendrils tangle tight at the corner where creeping ivy crawls,\
+Twinkling panes of glass on rooftop where stars shimmy and shake and prance,\
+Toughened rods stand fast and firm where wild winds warble and wail,\
+Two paper pages flutter fleetly where breezes boldly blow by.
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
