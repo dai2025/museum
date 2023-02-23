@@ -32,6 +32,13 @@ If a woodchuck could chuck wood that's stuck?\
 If the wood's stuck in the woodchuck's way,\
 Would the woodchuck chuck it, or just walk away?
 
+\
+Two wooden beams wait where the water meets the wheat field,\
+Two planks of wood rest by the road where the robin roams,\
+Two logs of wood float on the lake where the loon lingers,\
+Two timber poles stand tall where the tide turns turbulent,\
+Two lumber pieces lie lost where the leaves litter the land.
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
