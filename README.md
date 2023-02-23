@@ -27,6 +27,11 @@ So Betty decided to mix the butter with litter.\
 But if Betty mixes bitter butter with litter,\
 Will the butter taste better, or just more bitter?
 
+How much wood would a woodchuck chuck,\
+If a woodchuck could chuck wood that's stuck?\
+If the wood's stuck in the woodchuck's way,\
+Would the woodchuck chuck it, or just walk away?
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
