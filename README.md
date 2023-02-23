@@ -44,6 +44,12 @@ A mystic master makes his mightiest meditations.\
 With his mind's eye, he measures the moods of the mountains,\
 And molds his meditation into a magical motion.
 
+Two metal bars lay where the sun sets behind the hill,\
+Two bricks rest at the corner where the ivy climbs,\
+Two glass panes shine on the roof where the stars twinkle,\
+Two steel rods stand tall where the wind turns wild,\
+Two paper sheets flutter where the breeze blows gently.
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
