@@ -22,6 +22,11 @@ but she sometimes forgets where she stored.\
 If Sally forgets where she stored seashells,\
 where should she search to find these seashells?
 
+Betty bought butter but the butter was bitter,\
+So Betty decided to mix the butter with litter.\
+But if Betty mixes bitter butter with litter,\
+Will the butter taste better, or just more bitter?
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
