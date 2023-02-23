@@ -50,6 +50,12 @@ Two glass panes shine on the roof where the stars twinkle,\
 Two steel rods stand tall where the wind turns wild,\
 Two paper sheets flutter where the breeze blows gently.
 
+Tangled twigs twist where the sun dips 'neath the hill,\
+Twisted tendrils tangle at the corner where the ivy crawls,\
+Twinkling panes of glass on the rooftop where the stars dance,\
+Toughened rods stand fast where the wild winds warble,\
+Two paper pages flutter gently where the breeze blows bold.
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
