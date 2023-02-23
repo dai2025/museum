@@ -39,6 +39,11 @@ Two logs of wood float on the lake where the loon lingers,\
 Two timber poles stand tall where the tide turns turbulent,\
 Two lumber pieces lie lost where the leaves litter the land.
 
+Amidst the misty, mystic mountains,\
+A mystic master makes his mightiest meditations.\
+With his mind's eye, he measures the moods of the mountains,\
+And molds his meditation into a magical motion.
+
 ## XION
 m 13, Xi 14, R 18, A 1
 
