@@ -66,3 +66,11 @@ python3 abc.py 2>&1
 python3 abc.py >&1
 python3 abc.py >&2
 python3 abc.py >&
+
+
+## mandelbrot.py
+
+Example: draw the Mandelbrot set with a size of 500x500, zoom factor of 2, offset of (-0.5, 0), and max iterations of 1000.
+draw_mandelbrot(500, 500, zoom=2, x_off=-0.5, max_iters=1000)
+
+When you run this program, it will display an image of the Mandelbrot set. You can generate different images of the Mandelbrot set by adjusting the zoom factor, offset, and max iterations.
