@@ -74,3 +74,12 @@ Example: draw the Mandelbrot set with a size of 500x500, zoom factor of 2, offse
 draw_mandelbrot(500, 500, zoom=2, x_off=-0.5, max_iters=1000)
 
 When you run this program, it will display an image of the Mandelbrot set. You can generate different images of the Mandelbrot set by adjusting the zoom factor, offset, and max iterations.
+
+
+## julia_set.jl
+
+- The `Plots` package is imported, which provides a convenient way to plot data in Julia.
+- The `julia` function takes a complex number `z`, a complex constant `c`, and a maximum number of iterations `max_iters`. It computes the number of iterations it takes for `z` to diverge from the origin, using the recursive formula `z = z^2 + c`. If `z` diverges before `max_iters` iterations are reached, the function returns the number of iterations it took for `z` to diverge. Otherwise, it returns `max_iters`.
+- The `draw_julia` function takes the width and height of the plot, a complex constant `c`, a zoom factor `zoom`, an x offset `x_off`, a y offset `y_off`, and a maximum number of iterations `max_iters`. It generates a grid of `width` by `height` pixels, where each pixel corresponds to a point on the complex plane. It then computes the number of iterations it takes for each point to diverge using the `julia` function. Finally, it plots the resulting Julia set using the `heatmap` function, which maps each iteration count to a color using the `inferno` colormap.\
+\
+To run this program, you need to have Julia installed. You can save the code in a file named `julia_set.jl`. Then, navigate to the directory where the file is saved and run the command `julia julia_set.jl` to execute the program. Before running the program, make sure to install the `Plots` package by running the command `using Pkg; Pkg.add("Plots")`.
