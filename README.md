@@ -165,6 +165,18 @@ do {
 
 ### omnēs viae Rōmam dūcunt.
 
+"escrivre" -> "écrire" -> "réécrire"
+
+"scribere" is a Latin verb that means "to write" in English. It is the infinitive form of the word "scribo" in Latin, which was widely used in Latin texts and literary works during the ancient Roman era. The origin of "scribo" is uncertain, but many linguists believe it may be related to the Latin word "scrobis," which means to dig and make furrows in the ground. It is possible that the meaning of "scribo" as to inscribe characters onto a surface is derived from the idea of carving letters into the earth.
+
+"Graphein" is a Greek verb that means "to write" in English. This word was widely used in ancient Greek texts of philosophy, literature, and science written in the Greek language. The origin of "graphein" is derived from the ancient Greek word "grapho," which means "to cut," "to carve," or "to write." This word originally referred to the act of carving or engraving letters or images, but later came to also mean writing with ink or other writing instruments.
+
+```
+fn main() {
+    println!("j'ai retrouvé les clés");
+}
+```
+
 # Permissions
 
 - creation
