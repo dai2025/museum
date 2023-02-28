@@ -1,0 +1,19 @@
+class Uint16:
+    def __init__(self, w0, w1):
+        self.w0 = w0
+        self.w1 = w1
+
+def multiply_uint16(x, y):
+    x = Uint16(x & 0xffff, x >> 16)
+    y = Uint16(y & 0xffff, y >> 16)
+
+    z = Uint16(0, 0)
+
+    for i in range(16):
+        for j in range(16):
+            if i + j == 16:
+                z.w1 += (x.w0 >> i) * (y.w0 >> j) + (x.w0 >> i) * (y.w1 >> j) + (x.w1 >> i) * (y.w0 >> j)
+            elif i + j < 16:
+                z.w0 += (x.w0 >> i) * (y.w0 >> j) + (x.w0 >> i) * (y.w1 >> j) + (x.w1 >> i) * (y.w0 >> j)
+
+    return (z.w1 << 16) | z.w0
