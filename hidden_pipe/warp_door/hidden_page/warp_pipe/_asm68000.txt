@@ -1,0 +1,26 @@
+START:
+    MOVE.L #DATA, A0     ; Load the address of DATA into A0
+    MOVE.B (A0)+, D0     ; Load the first byte of the string into D0
+    SUBI.B #$30, D0      ; Subtract the ASCII code for '0' from D0 to convert it to a number
+    ADD.D D0, D0         ; Multiply the number by 2
+    MOVEQ #2, D1         ; Set D1 to 2 to count the number of iterations
+LOOP:
+    MOVE.B (A0)+, D0     ; Load the next byte of the string into D0
+    CMP.B #$3A, D0       ; Compare D0 to the ASCII code for ':'
+    BLO END              ; Branch to END if D0 is less than ':'
+    CMP.B #$2F, D0       ; Compare D0 to the ASCII code for '/'
+    BHI END              ; Branch to END if D0 is greater than '/'
+    SUBI.B #$30, D0      ; Subtract the ASCII code for '0' from D0 to convert it to a number
+    ADD.D D0, D0         ; Multiply the number by 2
+    SUBQ #1, D1          ; Decrement D1 to count the number of iterations
+    BNE LOOP             ; Branch to LOOP if D1 is not zero
+    MOVE.L D0, $4       ; Store the result in memory location $4
+    STOP #2700           ; Halt the program
+
+END:
+    STOP #2700           ; Halt the program
+
+    ORG $1000             ; Set the program start address to $1000
+
+DATA:
+    DC.B '43'            ; Define the string "43"
