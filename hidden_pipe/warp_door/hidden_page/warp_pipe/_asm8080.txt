@@ -1,0 +1,27 @@
+ORG 100H  ; Set the program start address to 0x100
+
+START:
+    LXI D, 4300H ; Set the address of i to 4300H
+    MOV A, M     ; Copy the value at address 4300H to A
+    CPI '0'      ; Compare A to the character '0'
+    JC END       ; Jump to END if A is less than '0'
+    CPI '9'      ; Compare A to the character '9'
+    JA END       ; Jump to END if A is greater than '9'
+    SUB '0'      ; Subtract the character '0' from A to convert it to a number
+    STA B        ; Copy the value of A to B
+    INX D        ; Increment the value of D
+    MOV A, M     ; Copy the value at address 4301H to A
+    CPI '0'      ; Compare A to the character '0'
+    JC END       ; Jump to END if A is less than '0'
+    CPI '9'      ; Compare A to the character '9'
+    JA END       ; Jump to END if A is greater than '9'
+    SUB '0'      ; Subtract the character '0' from A to convert it to a number
+    ADD B        ; Add B and A, and store the result in A
+    HLT          ; Halt the program
+
+END:
+    HLT          ; Halt the program
+
+    ; Data section
+    B DB 0       ; Reserve a byte for storing the result
+    I DB '2'     ; Reserve a byte for storing the length of the string "43"
