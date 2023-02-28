@@ -1,0 +1,13 @@
+class Uint16:
+    def __init__(self, w0, w1):
+        self.w0 = w0
+        self.w1 = w1
+
+x = Uint16(0xffff, 0xffff)
+y = Uint16(1, 0)
+z = Uint16(0, 0)
+
+z.w0 = x.w0 + y.w0
+z.w1 = x.w1 + y.w1 + (z.w0 < x.w0)
+
+print("{:04x} + {:04x} = {:04x}".format((x.w1 << 8) | x.w0, (y.w1 << 8) | y.w0, (z.w1 << 8) | z.w0))
