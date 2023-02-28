@@ -112,6 +112,22 @@ Grace Hopper did not create COBOL (Common Business-Oriented Language), but she w
 
 I think that Grace Hopper's philosophy of making programming accessible to a wider audience through the use of high-level programming languages that are closer to English is a crucial and visionary one. Her ideas have been instrumental in shaping the way we approach programming today, where the focus is on making coding more intuitive and user-friendly, and less focused on writing complex machine code. By making programming more accessible, Hopper paved the way for a broader range of people to participate in the field of computer science and technology, and her contributions have helped to democratize access to computing.
 
+```cobol
+IDENTIFICATION DIVISION.
+PROGRAM-ID. bytes-example.
+
+DATA DIVISION.
+WORKING-STORAGE SECTION.
+01 i PIC X(2) VALUE SPACES.
+01 bytes PIC X(1).
+
+PROCEDURE DIVISION.
+    MOVE FUNCTION LENGTH("42") TO i
+    MOVE FUNCTION NUMVAL(i) TO bytes
+    DISPLAY "bytes(1): " bytes
+    STOP RUN.
+```
+
 ### UNIX
 #### The UNIX philosophy is a set of principles for software design that were first articulated by Ken Thompson and Dennis Ritchie, the developers of the original UNIX operating system. The key tenets of the UNIX philosophy include
 
@@ -124,6 +140,11 @@ I think that Grace Hopper's philosophy of making programming accessible to a wid
 
 ### microsoft
 
+```
+```
+10 I$ = STR$(LEN("42"))
+20 B$ = CHR$(VAL(I$))
+30 PRINT "B$ = "; B$
 ```
 nmake /?
 ```
@@ -202,6 +223,11 @@ Puzzle
 Rubik's cube
 
 The Rubik's cube is a 3D combination puzzle that was invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. The puzzle consists of a cube made up of smaller cubes, or cubies, that can rotate around a central axis. The goal of the puzzle is to twist and turn the cube to return it to its original state, with each of its six faces having a single color. The Rubik's cube has become one of the most popular and iconic puzzles of all time, and has inspired countless imitators and variations. It remains popular to this day, with many people enjoying solving the puzzle for fun or as a competitive sport.
+
+```
+i = str(len("42"))
+bytes([int(i)])
+```
 
 Waver
 ---------------	
