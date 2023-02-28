@@ -1,0 +1,28 @@
+import struct
+
+#
+value = 256
+packed = struct.pack('>H', value)
+print(packed)
+
+import struct
+
+packed_data = struct.pack(format_string, value1, value2, ...)
+
+import struct
+
+#
+value = 256
+packed_data = struct.pack('>H', value)
+print(packed_data)  # b'\x01\x00'
+
+#
+value = 3.14
+packed_data = struct.pack('<f', value)
+print(packed_data)  # b'\xdb\x0fI@'
+
+
+class MyClass:
+    @classmethod
+    def my_classmethod(cls, arg1, arg2, ...):
+        #
