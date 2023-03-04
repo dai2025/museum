@@ -492,3 +492,41 @@ Random number: 3962551251
 127: 0b01111111 
 Hello World!
 ```
+## ANSI Escape Sequences
+ANSI escape sequences are special codes used to send instructions for cursor movement, text styles, colors, background colors, and more to a terminal. Here is a list of ANSI escape sequences:
+
+| Code | Description |
+| :--- | :--- |
+|  \033[0m  |  Reset all styles and colors  |
+|\033[1m	|Bold|
+|\033[2m	|Dim|
+|\033[3m	|Italic|
+|\033[4m	|Underline|
+|\033[5m	|Blink|
+|\033[7m	|Invert colors|
+|\033[8m	|Hide text|
+|\033[30m	|Black text|
+|\033[31m	|Red text|
+|\033[32m	|Green text|
+|\033[33m	|Yellow text|
+|\033[34m	|Blue text|
+|\033[35m	|Magenta text|
+|\033[36m	|Cyan text|
+|\033[37m	|White text|
+|\033[40m	|Black background|
+|\033[41m	|Red background|
+|\033[42m	|Green background|
+|\033[43m	|Yellow background|
+|\033[44m	|Blue background|
+|\033[45m	|Magenta background|echo "\033[31mHello, world!\033[0m"
+|\033[46m	|Cyan background|These codes can be used in shell scripts, terminal applications, and more. For example, to display "Hello, world!" in red foreground color using the echo command, you can write:
+|\033[47m	|White background|\033[31m is the code to specify red foreground color, and \033[0m is the code to reset the color and style.
+
+```
+man console_codes
+```
+```
+man xlsfonts
+```
+
+[✅](https://github.com/dai2024/museum/edit/main/README.md)
