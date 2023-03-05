@@ -523,6 +523,9 @@ ANSI escape sequences are special codes used to send instructions for cursor mov
 |\033[47m	|White background|\033[31m is the code to specify red foreground color, and \033[0m is the code to reset the color and style.
 
 ```
+seq 32 126 | awk '{printf("%o ", $1)}'
+```
+```
 man console_codes
 ```
 ```
