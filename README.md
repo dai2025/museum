@@ -532,4 +532,4 @@ man xlsfonts
 git config --list
 ```
 
-[✅](https://github.com/dai2024/museum/edit/main/README.md)
+[✅✅](https://github.com/dai2024/museum#upturn)
