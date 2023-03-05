@@ -1,0 +1,30 @@
+include stdioh
+include stdlibh
+include getopth
+
+int main(int argc char argv[) {
+    int opt intvalue
+    char stringvalue
+
+
+    while ((opt  getoptlong(argc argv is
+                              (struct option[){{help noargument  h { ))  ) {
+        switch (opt) {
+            case i
+                intvalue  atoi(optarg)
+                break
+            case s
+                stringvalue  optarg
+                break
+            case h
+                printf(sage s [i intvalue [s stringvaluen argv[)
+                exit()
+            default
+                fprintf(stderr sage s [i intvalue [s stringvaluen argv[)
+                exit()
+
+
+
+    printf(intvalue dn intvalue)
+    printf(stringvalue sn stringvalue)
+    exit()
