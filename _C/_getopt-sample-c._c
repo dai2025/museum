@@ -1,0 +1,32 @@
+include stdioh
+include stdlibh
+include getopth
+
+int main(int argc char argv[) {
+    int opt
+    char filename
+
+    while ((opt  getopt(argc argv f))  ) {
+        switch (opt) {
+            case f
+                filename  optarg
+                break
+            default
+                fprintf(stderr sage s [f filenamen argv[)
+                exit()
+
+
+
+     file  fopen(filename r)
+    if (file  ) {
+        perror(fopen)
+        exit()
+
+
+    char buffer[
+    while (fgets(buffer sizeof(buffer) file)) {
+        printf(s buffer)
+
+
+    fclose(file)
+    exit()
