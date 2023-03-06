@@ -1453,3 +1453,7 @@ find /path/to/directory -type f -print0 | xargs -0 grep -l "search term" | xargs
 ```
 This command searches all files in the directory specified by /path/to/directory for files that contain the string "search term". It then uses xargs to concatenate the contents of those files, sorts the resulting text alphabetically, and displays it.
 
+---
+```
+touch $(uuidgen).txt
+```
