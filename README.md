@@ -214,7 +214,9 @@ fn main() {
 ```
 console.log('Hello, world!')
 ```
-
+```
+console.log("\x1B[47m\x1B[31m\x1B[5mHello, world!\x1B[0m");
+```
 Upright Piano
 ---------------	
 Disassemble a Piano\
