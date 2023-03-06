@@ -1457,3 +1457,7 @@ This command searches all files in the directory specified by /path/to/directory
 ```
 touch $(uuidgen).txt
 ```
+
+### man lsaatr
+
+### man chattr
