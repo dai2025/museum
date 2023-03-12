@@ -1433,31 +1433,3 @@ perror(argv[1]);
 exit(0);
 ```
 ### go reference.
-
-# [title]
-#### 1. A command that searches all files in a specified directory for a specified string, then sorts the names of those files alphabetically and displays them:
-```sh
-find /path/to/directory -type f -print0 | xargs -0 grep -l "search term" | sort
-```
-This command searches all files in the directory specified by /path/to/directory for the string "search term". It then sorts the names of those files alphabetically and displays them.
-
-#### 2. A command that searches all files in a specified directory for lines that contain a specified string, then sorts those lines alphabetically and displays them:
-```sh
-find /path/to/directory -type f -print0 | xargs -0 grep "search term" | sort
-```
-This command searches all files in the directory specified by /path/to/directory for lines that contain the string "search term". It then sorts those lines alphabetically and displays them.
-
-#### 3. A command that searches all files in a specified directory for files that contain a specified string, then uses xargs to concatenate the contents of those files, sorts the resulting text alphabetically, and displays it:
-```sh
-find /path/to/directory -type f -print0 | xargs -0 grep -l "search term" | xargs cat | sort
-```
-This command searches all files in the directory specified by /path/to/directory for files that contain the string "search term". It then uses xargs to concatenate the contents of those files, sorts the resulting text alphabetically, and displays it.
-
----
-```
-touch $(uuidgen).txt
-```
-
-### man lsattr
-
-### man chattr
