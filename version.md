@@ -1,5 +1,7 @@
 > [sample link mozilla](https://support.mozilla.org/en-US/contribute)
 
+<details>
+<summary></summary>
 ```sh
 automake --version
 automake (GNU automake) 1.16.5
@@ -59,5 +61,6 @@ rustc 1.65.0 (897e37553 2022-11-02)
 cargo -V
 cargo 1.65.0 (4bc8f24d3 2022-10-20)
 ```
+</details>
 [sample link jetbrains](https://www.jetbrains.com/)\
 [sample link qt](https://www.qt.io/)
