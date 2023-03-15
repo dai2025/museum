@@ -66,8 +66,8 @@ chmod ..
 od 
 ```
 > https://github.com/dai2024/Hello3Re/blob/main/man1.bash
-
-# man man
+<details>
+<summary># man man</summary>
 
 ```sh
 man -k man | grep man
@@ -1433,3 +1433,4 @@ perror(argv[1]);
 exit(0);
 ```
 ### go reference.
+</details>
