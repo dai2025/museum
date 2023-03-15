@@ -1,5 +1,7 @@
 # Warinng -> Warn
 
+<details>
+<summary></summary>
 ## swift
 ```bash
 warning: 'swift run file.swift' command to interpret swift files is deprecated; use 'swift file.swift' instead
@@ -91,4 +93,4 @@ string.
    on
     + FullyQualifiedErrorId : AmpersandNotAllowed
 ```
-
+</details>
