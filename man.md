@@ -25,6 +25,11 @@ vi -R filename
 
 ...___...
 
+# man vim  ...
+```
+vim -u NONE
+```
+
 # man less
 ```
 less filename
