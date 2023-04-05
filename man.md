@@ -71,6 +71,11 @@ chmod ..
 od 
 ```
 > https://github.com/dai2024/Hello3Re/blob/main/man1.bash
+
+# man ldd
+```
+ldd /bin/ls
+```
 <details>
 <summary># man man</summary>
 
