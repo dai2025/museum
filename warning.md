@@ -1,6 +1,24 @@
 # Warinng -> Warn
 
 <details>
+<summary>W</summary>
+PS
+
+```PS
+ls .\?indows.h
+```
+
+```
+ls .\Windows.h	
+```
+
+```
+ls .\windows.h
+```
+	
+</details>
+
+<details>
 <summary></summary>
 ## swift
 ```bash
